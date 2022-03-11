@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/HW23/week/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kot/CLionProjects/HW23/week/cmake-build-debug/CMakeFiles/week.dir
+C:/Users/Kot/CLionProjects/HW23/week/cmake-build-debug/CMakeFiles/edit_cache.dir
