@@ -1,13 +1,22 @@
 #include <iostream>
-#define SPRING
+#define SPRING 1
 #define SUMMER 1
-#define AUTUMN
-#define WINTER
+//#define AUTUMN 1
+//#define WINTER 1
 
 
 int main() {
-#if SUMMER
-    std::cout << "Summer" << std::endl;
-    return 0;
+#if SPRING
+    std::cout << "SPRING" << std::endl;
 #endif
+#if SUMMER
+    std::cout << "SUMMER" << std::endl;
+#endif
+#if AUTUMN
+    std::cout << "AUTUMN" << std::endl;
+#endif
+#if WINTER
+    std::cout << "WINTER" << std::endl;
+#endif
+    return 0;
 }
